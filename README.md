@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="700" src="./preview/summary.png" alt="Summary Preview"/>
+  <img width="400" src="./preview/summary.png" alt="Summary Preview"/>
 </p>
 
 # WalkSample - react-native app that mimics iOS Health
@@ -24,5 +24,5 @@ npm run ios;
 ```
 
 <p align="center">
-  <img height="700" src="./preview/profile.png" alt="Profile Preview"/>
+  <img width="400" src="./preview/profile.png" alt="Profile Preview"/>
 </p>
