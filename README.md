@@ -1,4 +1,6 @@
-![Preview](./preview/summary.png)
+<p align="center">
+  <img height="700" src="./preview/summary.png" alt="Summary Preview"/>
+</p>
 
 # WalkSample - react-native app that mimics iOS Health
 
@@ -21,4 +23,6 @@ cd ios && pod install && cd ../;
 npm run ios;
 ```
 
-![Preview](./preview/profile.png)
+<p align="center">
+  <img height="700" src="./preview/profile.png" alt="Profile Preview"/>
+</p>
