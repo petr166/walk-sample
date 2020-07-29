@@ -1,3 +1,5 @@
+![Preview](./preview/summary.png)
+
 # WalkSample - react-native app that mimics iOS Health
 
 ## What you need to run the demo locally (iOS)
@@ -18,3 +20,5 @@ cd ios && pod install && cd ../;
 # run app on default simulator (you can also start it through XCode opening "ios/WalkSample.xcworkspace")
 npm run ios;
 ```
+
+![Preview](./preview/profile.png)
